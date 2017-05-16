@@ -10,13 +10,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 'use strict';
 
 /*
- * Polyfills loaded: None
- * Used in: Chrome
+ * Polyfills loaded: Custom Elements ES5 Shim
  */
 
-// TODO: This needs to not exist at all.
-
-// TODO(notwaldorf): Remove after this is addressed:
-// https://github.com/webcomponents/shadycss/issues/46
-import '../bower_components/shadycss/src/ShadyCSS.js'
-import '../bower_components/shadycss/src/custom-style-element.js'
+import '../bower_components/custom-elements/src/native-shim.js'
