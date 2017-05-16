@@ -23,11 +23,11 @@
     "deploy-to-gh-pages.sh"
   ],
   "homepage": "https://github.com/notwaldorf/lazy-image",
-  "_release": "359b8fa161",
+  "_release": "f92cdf0fe3",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "359b8fa161bfb96bbc439cae5891a0a933d90756"
+    "commit": "f92cdf0fe3d8bae417ee48af280db981229aed2b"
   },
   "_source": "https://github.com/notwaldorf/lazy-image.git",
   "_target": "master",
